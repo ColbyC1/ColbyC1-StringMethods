@@ -35,7 +35,7 @@ public class SimpleStringMethods {
      * @param c a character within s.
      * @return the index of the first occurence of c within s.
      */
-    public int indexOf(String s, char c){
+    public int indexOf(String s, char c) {
         return s.indexOf(c);
     }
 
